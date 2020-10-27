@@ -1,5 +1,5 @@
 {
-    "name": "laravel/envoy",
+    "name": "codificar/envoy",
     "description": "Elegant SSH tasks for PHP.",
     "keywords": ["ssh", "laravel"],
     "license": "MIT",
